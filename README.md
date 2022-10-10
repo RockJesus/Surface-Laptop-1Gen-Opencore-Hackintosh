@@ -59,3 +59,5 @@ Wireless (not working)
 
 Wi-Fi: 802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible
 Bluetooth: Bluetooth 4.0 LE
+
+#Thanks: https://github.com/Xiashangning/BigSurface
